@@ -1,0 +1,46 @@
+_repo: Old-Picture-BooksWith-other-Essays-on-Bookish-Subjects_43518
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Pollard, Alice
+    gutenberg_agent_id: '40856'
+    url: http://www.gutenberg.org/2009/agents/40856
+covers:
+- cover_type: archival
+  image_path: 43518-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, A. W. (Alfred William)
+    - Pollard, Alfred William
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+description: ''
+gutenberg_issued: '2013-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43518'
+  lccn: '03014647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bibliography'
+- !lcsh 'Illustrated books'
+tableOfContents: 'Old picture books -- Florentine rappresentazioni and their pictures
+  -- Two illustrated Italian Bibles -- A book of hours -- The transference of woodcuts
+  in the fifteenth and sixteenth centuries -- Es tu scholaris? -- English books printed
+  abroad -- Some pictorial and heraldic initials -- England and the bookish arts --
+  The first English book sale -- John Durie''s ''Reformed librarie-keeper'' -- Woodcuts
+  in English plays printed before 1660 -- Herrick and his friends -- A poet''s studies
+  -- Printers'' marks of the fifteenth and sixteenth centuries -- The Franks collection
+  of armorial book-stamps -- By Alice Pollard: A Queen Anne pocket-book. Why men don''t
+  marry.'
+title: Old Picture Books, With Other Essays on Bookish Subjects
+url: http://www.gutenberg.org/ebooks/43518
